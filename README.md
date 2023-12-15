@@ -10,3 +10,19 @@
 #Evidências:
 
 ![Imagem do WhatsApp de 2023-12-15 à(s) 16 29 44_caea6245](https://github.com/joaopamarall/button-react/assets/103014937/c66e93a9-3f28-41eb-96a7-ad7dd8898b46)
+
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```

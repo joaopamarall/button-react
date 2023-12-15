@@ -1,8 +1,8 @@
-# React + Vite
+# Questão 1
+## Objetivo
+- Criar um botão vermelho com bordas arredondadas usando React. Ele deve exibir "Clique-me!". Quando você clicar nele, um alerta aparecerá, te avisando que o botão foi clicado.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como Fiz?
+- Componente React + vite: Usei a biblioteca React junto com vite para criar um componente de botão.
+- Estilo Personalizado: Adicionei estilos ao botão para torná-lo vermelho e com bordas arredondadas.
+- Manipulação de Eventos: Implementei um manipulador de eventos para o clique, que exibe um alerta.
